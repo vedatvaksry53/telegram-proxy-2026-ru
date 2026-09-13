@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vedatvaksry53.github.io/telegram-proxy-2026-ru/sitemap.xml
